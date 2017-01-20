@@ -19,3 +19,6 @@ C:\Users\RED\Desktop\qq\爬数据\爬数据\bin\Debug\Spire.XLS.dll
 C:\Users\RED\Desktop\qq\爬数据\爬数据\bin\Debug\Spire.Common.xml
 C:\Users\RED\Desktop\qq\爬数据\爬数据\bin\Debug\Spire.Pdf.xml
 C:\Users\RED\Desktop\qq\爬数据\爬数据\bin\Debug\Spire.XLS.xml
+C:\Users\RED\Documents\GitHub\Get_Web_Data\爬数据\爬数据\bin\Debug\爬数据.exe.config
+C:\Users\RED\Documents\GitHub\Get_Web_Data\爬数据\爬数据\obj\Debug\爬数据.exe
+C:\Users\RED\Documents\GitHub\Get_Web_Data\爬数据\爬数据\obj\Debug\爬数据.pdb
